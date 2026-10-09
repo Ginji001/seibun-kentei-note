@@ -1,0 +1,19 @@
+{
+  "name": "化粧品成分検定 1級",
+  "exam_date": "2026-12-13",
+  "study_start": "2026-10-01",
+  "weekly_hours": 5,
+  "format": {
+    "type": "CBT・五肢択一",
+    "questions": 70,
+    "minutes": 90,
+    "pass_rate": 0.8,
+    "pass_count": 56,
+    "verify": true
+  },
+  "materials": [
+    "公式テキスト",
+    "1級公式問題集",
+    "化粧品成分辞典"
+  ]
+}
